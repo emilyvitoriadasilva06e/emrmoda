@@ -1,6 +1,7 @@
-.cabeçalho{
-background-color: #338D91;
+body{
+background-color: #389D91;
 }
 .cabeçalho-titulo {
-    color:black
+    color: #389D91
+    font-size: 40px
 }
